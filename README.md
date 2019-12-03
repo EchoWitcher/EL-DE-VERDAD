@@ -6,7 +6,7 @@
  ![Logo:](http://tectijuana.edu.mx/wp-content/plugins/website-logo/images/logo_ITT1.png)
  
 
-# ALEMAN PENDEJO
+# ALEMAN URETA ENRIQUE
 # INGENIERIA EN SISTEMAS COMPUTACIONALES
 # PROGRAMACION ORIENTADA A OBJETOS
 
