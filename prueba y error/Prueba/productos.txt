@@ -1,0 +1,18 @@
+JARDIN|Macetas|15|1|82
+JARDIN|Abono Ultra|6.25|1|80
+JARDIN|Abono Eco|3.99|1|72
+JARDIN|Semillas Shrutte|14.99|1|98
+JARDIN|Semillas Ultra|13.99|1|99
+JARDIN|Aditivo CreceGrow |27.5|1|96
+COCINA|Manual de cocina 'Cualquiera puede cocinar'|35.99|2|4
+COCINA|Estufa marca Dracarys|25.99|2|78
+COCINA|Utencilios de cocina marca Boyle|99|2|99
+COCINA|Juego de cuchillos AmericanP|99|2|91
+COCINA|Juego de Ceramica|10|2|13
+ELECTRONICOS|Television Plasma|356|3|89
+ELECTRONICOS|Television 4K |500.99|3|100
+ELECTRONICOS|Audifonos Beats|358.99|3|29
+ELECTRONICOS|Audifonos JBL|192.45|3|89
+PAPEPELRIA|Papel Dunder Mifflin (OFERTA)|13|4|205
+PAPEPELRIA|Papel Dunder Mifflin (OFERTA)|13|4|205
+PAPEPELRIA|Papel Dunder Mifflin (OFERTA)|13|4|205
